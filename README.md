@@ -1,2 +1,2 @@
 # api-specs
-Our services api specs
+Our services specs
